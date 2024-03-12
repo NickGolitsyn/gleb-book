@@ -66,7 +66,7 @@ export default function Home() {
                     Buy Now
                   </Link>
                 </Button>
-                <CheckoutForm uiMode="hosted" />
+                <CheckoutForm />
               </div>
             </div>
           </div>
